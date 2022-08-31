@@ -112,7 +112,7 @@
                                                     logo: "mbbank",
                                                     name: "MB Bank",
                                                     ctk: "TRAN QUOC TOAN",
-                                                    stk: "2006069999"
+                                                    stk: "2006"
                                                }, {
                                                     logo: "momo",
                                                     name: "V\xed Momo",
